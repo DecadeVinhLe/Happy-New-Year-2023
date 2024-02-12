@@ -4,7 +4,7 @@ let Newearnfo = document.getElementsByClassName("NewYearInfo")[0];
 let NewYearMessage = document.getElementsByClassName("NewYearMessage")[0];
 
 setInterval(() => {
-  BoxOne.style.backgroundImage = "url('backgroundgif.gif')";
+  BoxOne.style.backgroundImage = "url('dragon.gif')";
 }, 3000);
 
 setInterval(() => {
